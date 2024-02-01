@@ -2,7 +2,7 @@ class Ghloc < Formula
     desc "Fetches your total LOC and commits from all your GitHub repos"
     homepage "https://github.com/mattrltrent/ghloc"
     url "https://github.com/mattrltrent/ghloc/archive/v1.0.0.tar.gz"
-    sha256 "3db04c62c98e553ad6f33f9b713d6cb1330153cf40c8d2f124a12158fee9bbe9"
+    sha256 "7f1578dac8f0a8d620f39352924f0085932404141516c4780a9bee7efa4c8b0a"
   
     depends_on "rust" => :build
   
