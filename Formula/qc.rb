@@ -1,8 +1,8 @@
 class Qc < Formula
     desc "A simple CLI tool for crafting quantum circuits."
     homepage "https://github.com/mattrltrent/quantum_crafter"
-    url "https://github.com/mattrltrent/quantum_crafter/archive/v0.0.1.tar.gz"
-    sha256 "d66e5644670d29b8ca2a10a4d000a5bd8024776c5a9850cf3ec420ac567e198b"
+    url "https://github.com/mattrltrent/quantum_crafter/archive/v0.0.2.tar.gz"
+    sha256 "b70c905ffa51ed53fdf8d7b9811b1b63265176e6dc4adc42969cd8ec767520d8"
   
     depends_on "go" => :build
   
